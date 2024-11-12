@@ -1,4 +1,4 @@
-# Exercice 20 : Dungeon master
+# Dungeon master
 
 ## Partie 1
 
