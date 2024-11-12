@@ -1,7 +1,6 @@
 import os
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-
 class SimpleRouter(BaseHTTPRequestHandler):
     def do_GET(self):
         path = f"./projets/webserver/www{self.path}"
